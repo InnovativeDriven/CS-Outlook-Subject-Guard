@@ -12,13 +12,13 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Subject Guard"/>
   <Description DefaultValue="Blocks outgoing mail whose subject is missing the client and matter tag."/>
-  <IconUrl DefaultValue="https://wparrID.github.io/outlook-subject-guard/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://wparrID.github.io/outlook-subject-guard/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://wparrID.github.io/outlook-subject-guard/"/>
+<IconUrl DefaultValue="https://innovativedriven.github.io/CS-Outlook-Subject-Guard/assets/icon-64.png"/>
+<HighResolutionIconUrl DefaultValue="https://innovativedriven.github.io/CS-Outlook-Subject-Guard/assets/icon-128.png"/>
+<SupportUrl DefaultValue="https://innovativedriven.github.io/CS-Outlook-Subject-Guard/"/>
 
-  <AppDomains>
-    <AppDomain>https://wparrID.github.io</AppDomain>
-  </AppDomains>
+<AppDomains>
+  <AppDomain>https://innovativedriven.github.io</AppDomain>
+</AppDomains>
 
   <Hosts>
     <Host Name="Mailbox"/>
@@ -33,7 +33,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://wparrID.github.io/outlook-subject-guard/commands.html"/>
+        <SourceLocation DefaultValue="https://innovativedriven.github.io/CS-Outlook-Subject-Guard/commands.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -75,8 +75,8 @@
 
       <Resources>
         <bt:Urls>
-          <bt:Url id="WebViewRuntime.Url" DefaultValue="https://wparrID.github.io/outlook-subject-guard/commands.html"/>
-          <bt:Url id="JSRuntime.Url" DefaultValue="https://wparrID.github.io/outlook-subject-guard/launchevent.js"/>
+          <bt:Url id="WebViewRuntime.Url" DefaultValue="https://innovativedriven.github.io/CS-Outlook-Subject-Guard/commands.html"/>
+          <bt:Url id="JSRuntime.Url" DefaultValue="https://innovativedriven.github.io/CS-Outlook-Subject-Guard/launchevent.js"/>
         </bt:Urls>
       </Resources>
 
