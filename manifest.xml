@@ -7,7 +7,7 @@
   xsi:type="MailApp">
 
   <Id>5b53e0f9-f17b-4eeb-a346-6e1c43c0d1c4</Id>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.0.1</Version>
   <ProviderName>Innovative Driven</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Subject Guard"/>
